@@ -2,7 +2,7 @@
 this is a portfolio of milan's csp code!
 
 
-Descriptions of project I have made: 
+Descriptions of projects I have made: 
 
 ### Project 1: multiplication_quiz
 **Summary**: This program allows users to get practice with multiplication on easy, medium, and hard levels. 
